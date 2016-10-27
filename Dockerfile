@@ -6,7 +6,7 @@
 #
 
 # Pull base image.
-FROM ubuntu
+FROM ubuntu:16.04
 
 # Install Java.
 RUN \
